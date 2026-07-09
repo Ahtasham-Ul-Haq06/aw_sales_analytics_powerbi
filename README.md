@@ -59,16 +59,16 @@ Along with these, a **Sales** fact table (order-level transaction data) sits at 
 The dashboard consists of four interactive pages:
 
 1. **Executive Summary** — High-level KPIs (Revenue, Profit, Orders, Return Rate), orders by category and gender, a continent/country donut chart, top 10 products by orders and return rate, and monthly revenue/orders/returns trend cards.
-   ![Executive Summary](images/01_executive_summary.png)
+   ![Executive Summary](images/1.executive_summary.PNG)
 
 2. **Map View** — A geographic map showing order concentration by country and continent, filterable by continent and month.
-   ![Map View](images/02_map_view.png)
+   ![Map View](images/2.map_view.PNG)
 
 3. **Product Details** — A drill-through page focused on a single product, showing weekly revenue trends, monthly revenue/orders/returns gauges, and a returns trend line with a forecast band.
-   ![Product Details](images/03_product_details.png)
+   ![Product Details](images/3.product_details.PNG)
 
 4. **Customer Details** — A customer-level view with a ranked customer table, orders by gender/income/occupation, an age distribution treemap, and orders & revenue trends by month.
-   ![Customer Detail](images/04_customer_detail.png)
+   ![Customer Detail](images/4.customer_details.PNG)
 
 ## How to Run this Project?
 1. Clone or download this repository.
