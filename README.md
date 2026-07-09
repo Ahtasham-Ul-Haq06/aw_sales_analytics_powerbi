@@ -90,7 +90,6 @@ This project demonstrates a complete Power BI workflow — from raw CSV data to 
 
 ## Author & Contact
 **Ahtasham Ul Haq**
-Data Analyst
 
 - 📧 Email: ahtashamulhaq2006@gmail.com.com
 - 💼 LinkedIn: www.linkedin.com/in/ahtasham-ul-haq-6647973a3
